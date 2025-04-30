@@ -1,0 +1,9 @@
+Aluno = "Jubiscleudo Oliveira Da Silva"
+Atividades = 2
+Prova_Mensal = 3
+Simulado = 2
+Prova_Global = 2
+Comportamento = 1
+
+Média = Atividades + Prova_Mensal + Simulado + Prova_Global + Comportamento
+print (f"{Aluno}""\nMédia:",Média)
